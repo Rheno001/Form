@@ -1,4 +1,11 @@
-
+@import url(https://fonts.googleapis.com/css?family=Aldrich:regular);
+.container-sm{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 form {
     /* Center the form on the page */
     margin: 0 auto;
@@ -8,7 +15,7 @@ form {
     border: 1px solid #ccc;
     border-radius: 1em;
     background: url(darkgalazy.jfif);
-    font-family: 'poppins';
+    font-family: 'aldrich';
   }
 
   ul {
